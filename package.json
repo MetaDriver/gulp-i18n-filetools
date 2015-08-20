@@ -1,0 +1,36 @@
+{
+"name": "gulp-i18n-filetools",
+"version": "0.0.1",
+"description": "Manipulating of .HTML, .js, .po, .json files for frontend i18n",
+"author": "MetaDriver <MetaDriver@yandex.ru>",
+"contributors": [{
+}],
+"scripts": {
+  "html-ex": "vows --spec --isolate"
+},
+"main": "index.js",
+"repository": {
+"type": "git",
+"url": "https://github.com/matadriver/gulp-i18n-filetools"
+},
+"keywords": [
+  "angular-translate",
+  "string-manipulation",
+  "file-manipulation",
+  "pofile",
+  "json",
+  "html",
+  "JavaScript"
+],
+"dependencies": {
+  "through2": "~0.6.3",
+  "gulp-util": "~3.0.2",
+  "pofile": "~0.2.8"
+},
+"devDependencies": {
+},
+"preferGlobal": false,
+"private": true,
+"license": "MIT"
+}
+
