@@ -6,12 +6,13 @@
 "contributors": [{
 }],
 "scripts": {
-  "html-ex": "vows --spec --isolate"
+  "test": "test"
 },
 "main": "index.js",
 "repository": {
-"type": "git",
-"url": "https://github.com/matadriver/gulp-i18n-filetools"
+  "type": "git",
+  "url": "D:\\__work__\\projects\\33s\\i18n_test\\_gulp\\node_modules\\gulp-i18n-filetools\\"
+
 },
 "keywords": [
   "angular-translate",
